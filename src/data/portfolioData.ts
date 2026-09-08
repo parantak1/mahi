@@ -70,21 +70,21 @@ export const HIGHLIGHTS_DATA: HighlightItem[] = [
     stories: [
       {
         id: 's-v1',
-        image: 'https://images.unsplash.com/photo-1566837945700-30057527ade0?w=700&auto=format&fit=crop&q=80',
+        image: 'https://i.pinimg.com/736x/20/06/31/200631fb0eaca43e93f204629842b14f.jpg',
         caption: 'Prem Mandir bathed in soft twilight glow. No place holds this serenity 🌸',
         timeAgo: '3w ago',
         tag: 'Prem Mandir',
       },
       {
         id: 's-v2',
-        image: 'https://images.unsplash.com/photo-1599839575945-a9e5af0c3fa5?w=700&auto=format&fit=crop&q=80',
-        caption: 'Marigold garlands & sacred bells along the Parikrama path 🌼',
+        image: 'https://i.pinimg.com/736x/e0/ad/0d/e0ad0d67035a6d04d61144706d67d617.jpg',
+        caption: 'The Entry Point 🌼',
         timeAgo: '3w ago',
         tag: 'Spiritual',
       },
       {
         id: 's-v3',
-        image: 'https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=700&auto=format&fit=crop&q=80',
+        image: 'https://i.pinimg.com/736x/05/26/4d/05264da28bc3eba1fc58ac77d60a0c71.jpg',
         caption: 'Radhe Radhe on every wall and in every smile 🙏',
         timeAgo: '3w ago',
         tag: 'Memories',
@@ -133,22 +133,22 @@ export const HIGHLIGHTS_DATA: HighlightItem[] = [
     stories: [
       {
         id: 's-h1',
-        image: 'https://images.unsplash.com/photo-1517841905240-472988babdf9?w=700&auto=format&fit=crop&q=80',
+        image: 'https://i.pinimg.com/736x/95/b0/e6/95b0e6a217af750ee1bd0f5be331df55.jpg',
         caption: 'The way the sun hits my desk when the city goes quiet at 4 PM 🌞',
         timeAgo: '5d ago',
         tag: 'Soft Life',
       },
       {
         id: 's-h2',
-        image: 'https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=700&auto=format&fit=crop&q=80',
-        caption: 'Jhumkas on, favorite black kurta, going for evening stroll by the river ✨',
+        image: 'https://i.pinimg.com/736x/6b/19/bd/6b19bd7012c34810aa3dd1f183da6a78.jpg',
+        caption: 'Something GOTH ✨',
         timeAgo: '6d ago',
         tag: 'Prayagraj Evenings',
       },
       {
         id: 's-h3',
-        image: 'https://images.unsplash.com/photo-1507676184212-d03ab07a01bf?w=700&auto=format&fit=crop&q=80',
-        caption: 'Reading gulzar poems under warm yellow fairy lights 🕯️',
+        image: 'https://i.pinimg.com/736x/49/3a/0b/493a0bcb6512c7e7e10b99d35bd31110.jpg',
+        caption: 'gulzar 🕯️',
         timeAgo: '1w ago',
         tag: 'Soul Food',
       },
