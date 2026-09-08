@@ -1,0 +1,6 @@
+{
+  "name": "Mahi Portfolio",
+  "description": "Cozy scrapbook and soft cinematic portfolio for digital creator Mahi in Prayagraj.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
